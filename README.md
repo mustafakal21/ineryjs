@@ -42,7 +42,7 @@ sudo apt install npm
 * Repoyu klonlayın
 
    ```
-   git clone https://github.com/mustafaka21/ineryjs.git
+   git clone https://github.com/mustafakal21/ineryjs.git
    ```
 
 * Dizine Girin
