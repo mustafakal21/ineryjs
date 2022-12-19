@@ -4,10 +4,10 @@ Inery Blockchain'de JSON RPC'yi çağırmak için örnek kod
 
 ## 🟢Bilgiler
 
-JSON RPC Örnek kodu örnek dizinde mevcuttur, [example](https://github.com/herculessx/ineryjs/blob/master/example/) değiştirmeyi deneyebilir ve nasıl çalıştığını anlayabilirsiniz, ayrıca kodunuzu çalıştırabilmek ve değerli sözleşme işlevini çağırabilmek için Hesabınızda Değerli Akıllı Sözleşmeye (Görev 3) sahip olmanız gerekir.
+JSON RPC Örnek kodu örnek dizinde mevcuttur, [example](https://github.com/mustafakal21/ineryjs/blob/master/example/) değiştirmeyi deneyebilir ve nasıl çalıştığını anlayabilirsiniz, ayrıca kodunuzu çalıştırabilmek ve değerli sözleşme işlevini çağırabilmek için Hesabınızda Değerli Akıllı Sözleşmeye (Görev 3) sahip olmanız gerekir.
 
 
-## 🟢 Başlayın
+## 1) Başlayın
 Eski Nodejs kaldırın
 <br>
 
@@ -29,7 +29,7 @@ Curl'ü yükleyin
 ```
 
      
-## 🟢 NPM kurulumu
+## 2) NPM kurulumu
 
 ```shell
 sudo apt install npm
@@ -37,7 +37,7 @@ sudo apt install npm
 
 
 
-## 🟢 Kurulum
+## 3) Kurulum
 
 * Repoyu klonlayın
 
@@ -81,10 +81,7 @@ NODE_URL="http://NODEİPADRESİ:8888"
 ctrl +X  Yes diyip çıkıyoruz.
 
 
-<br>
-<img src="https://raw.githubusercontent.com/herculessx/Q-Network-Testnet/main/env-duzenle.png" >
-
-## 🟢 8888 port açma 
+## 4) 8888 port açma 
 
 RPC Örneği Çalıştır
 
@@ -94,19 +91,12 @@ sudo ufw allow 8888
 
 <br>
 
-## 🟢 Çalıştırma
+## 5) Çalıştırma
 
 ```
 npm run rpc-example
 ```
 
-* işlem çıktısı aşağıdaki gibi olmalı<br><br>
-<img src="https://raw.githubusercontent.com/herculessx/Q-Network-Testnet/main/inery-okey.PNG" width="750">
-
-<br>
-https://explorer.inery.io/
-
-![image](https://user-images.githubusercontent.com/101635385/205462705-21a45a65-86a8-46a3-9257-ebedc56e1dc6.png)
 
 
 
